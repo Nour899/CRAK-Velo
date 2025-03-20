@@ -2,6 +2,9 @@
 
 CRAK-Velo is a semi-mechanistic model that incorporates chromatin accessibility data into the estimation of RNA velocities. It offers biologically consistent estimates of developmental trajectories and enables precise cell-type deconvolution and examine the interactions between genes and chromatin regions.
 
+![Model](https://github.com/Nour899/CRAK-Velo/blob/main/figures/Figure1.png)
+
+
 ## Installation
 We run CRAK-Velo on the same environment we used to run UniTVelo installed using:
 
